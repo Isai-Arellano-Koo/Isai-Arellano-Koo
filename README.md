@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isai</h1>
-<div align="center">
+<div >
 <p>
   I'm Isaí, a Full Stack developer with a focus on Backend development. 
 </p>
