@@ -32,7 +32,7 @@
 
   ## Contact
   <p>
-   - LinkedIn: [https://www.linkedin.com/in/isai-arellano/](https://www.linkedin.com/in/isai-arellano/)
+   - LinkedIn: https://www.linkedin.com/in/isai-arellano/ <br/>
    - Email: arko.isai19@gmail.com - isakoospike@gmail.com
   </p>
 
