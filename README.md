@@ -1,43 +1,45 @@
 <h1 align="center">Hi 👋, I'm Isai</h1>
-<div >
-<p>
-  I'm Isaí, a Full Stack developer with a focus on Backend development. 
-</p>
-<p>
-I'm passionate about programming and technology, and I'm committed to creating
-  innovative solutions for technical challenges. 
-</p>
-<p>
-## Experience
-</p>
-<p>
- - **Backend Development**: I have experience in building
-  server-side applications and systems using JavaScript and a variety of
-  technologies and frameworks.
-</p>
+<div>
   <p>
-   - **Frontend Technologies**: In addition to my backend experience, I'm also
-  familiar with technologies and frameworks for client-side development.
+    I'm Isaí, a Full Stack developer with a focus on Backend development.
   </p>
   <p>
-  ## Location - I live in Peru 🌄 
+    I'm passionate about programming and technology, and I'm committed to creating
+    innovative solutions for technical challenges.
   </p>
-  
+
+  ## Experience
+
   <p>
-  ## Lifelong Learning I'm passionate about learning and taking on new
-  challenges. I'm always seeking opportunities to expand my knowledge and
-  improve my skills. 
+   - **Backend Development**: I have experience in building
+    server-side applications and systems using JavaScript and a variety of
+    technologies and frameworks.
   </p>
   <p>
-  ## Contact - LinkedIn: https://www.linkedin.com/in/isai-arellano/ - Email:
-  arko.isai19@gmail.com - isakoospike@gmail.com
+     - **Frontend Technologies**: In addition to my backend experience, I'm also
+    familiar with technologies and frameworks for client-side development.
   </p>
+
+  ## Location
   <p>
-  I'm excited about the new
-  opportunities and challenges that come my way! If you have interesting
-  projects or simply want to connect, feel free to reach out.
+   - I live in Peru 🌄 
   </p>
-   
+
+  ## Lifelong Learning
+  <p>
+    - I'm passionate about learning and taking on new challenges. I'm always seeking opportunities to expand my knowledge and improve my skills.
+  </p>
+
+  ## Contact
+  <p>
+   - LinkedIn: [https://www.linkedin.com/in/isai-arellano/](https://www.linkedin.com/in/isai-arellano/)
+   - Email: arko.isai19@gmail.com - isakoospike@gmail.com
+  </p>
+
+  <p>
+    I'm excited about the new opportunities and challenges that come my way! If you have interesting
+    projects or simply want to connect, feel free to reach out.
+  </p>
 </div>
 
 <p align="left">
