@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isai</h1>
 <div>
   <p>
-    I'm Isaí, a Full Stack developer with a focus on Backend development.
+    I'm Isaí, a Full Stack developer
   </p>
   <p>
     I'm passionate about programming and technology, and I'm committed to creating
